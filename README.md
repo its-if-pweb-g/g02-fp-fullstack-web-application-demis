@@ -12,15 +12,44 @@
 
 ## Aplikasi Web yang dibuat
 
+E-Commerce Website.
+
 ### Fitur yang dibuat
+
+Admin
+- Add Shoes
+- Update Stock
+- Delete Shoes
+- Chart
+- Confirm Order
+- Remove Order
+
+User
+- Log In / Log Out
+- Cart
+- Order
+- Payment
 
 ### Link Deployment (jika ada)
 
 ## Teknologi yang digunakan
 
+- Php
+- JavaScript
+- SQL
+
 ## Cara menjalankan aplikasi
 
+Gunakan XAMPP dan jalankan Apache dan MySQL
+
 ## Progress pembuatan dan pembagian tugas per anggota
+
+| Jobdesk | Nama |
+|:-----------:|:--------:|
+| Back-End  | Mirza S. Fathir  |
+| Database  | Moch. Kolbi Nuron  |
+| Front-End  | Aditya Fieansyah P.P.  |
+
 
 ## Dokumentasi website
 `masukkan gambar dari website yang dibuat`
