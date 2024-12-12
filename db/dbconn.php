@@ -1,3 +1,2 @@
 <?php
-	$conn=mysqli_connect("localhost","root","", "Demis") or die(mysql_error());
-?>
+$conn = new mysqli("localhost", "root", "", "demistore");
