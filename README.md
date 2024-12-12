@@ -52,4 +52,16 @@ Gunakan XAMPP dan jalankan Apache dan MySQL
 
 
 ## Dokumentasi website
-`masukkan gambar dari website yang dibuat`
+
+![Screenshot 2024-12-12 070439](https://github.com/user-attachments/assets/12504f89-2927-47dd-b4cb-66888719dd19)
+
+![Screenshot 2024-12-12 070427](https://github.com/user-attachments/assets/2f995f94-ee59-488d-be18-b8ad40e73f6d)
+
+![Screenshot 2024-12-12 070341](https://github.com/user-attachments/assets/f8bbba5f-37a9-4086-bc90-8ef188255381)
+
+![Screenshot 2024-12-12 070331](https://github.com/user-attachments/assets/43062983-0b2b-4586-9291-f7621d28c6a7)
+
+![Screenshot 2024-12-12 070401](https://github.com/user-attachments/assets/202d159b-5d7a-442c-9dbc-d56a1b53af1a)
+
+
+
